@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+.DS_Store
+
+brb/invoices/*
+brb/invoices-pdf/*
+venv/*
